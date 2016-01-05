@@ -1,2 +1,2 @@
-# ifcoder.github.io
-我的博客
+# 我的个人网站
+www.wupanpan.cn
